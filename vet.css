@@ -28,21 +28,21 @@ ul{
 }
 .hom{
     border: solid aquamarine 3px;
-    border-radius: 20%;
+    border-radius: 5%;
     color: blue;
     background-color: white;
     margin: 10px;
     padding: 20px;
-    padding-left: 28px;
+    padding-left: 0px;
 }
 .fem{
     border: solid aquamarine 3px;
-    border-radius: 20%;
+    border-radius: 5%;
     color: plum;
     background-color: white;
     margin: 10px;
     padding: 20px;
-    padding-left: 28px;
+    padding-left:0px;
 }
 .lien{
     text-decoration: none;
@@ -52,4 +52,5 @@ ul{
 }
 img{
     border-radius: 20%;
+
 }
