@@ -31,8 +31,10 @@ ul{
     border: solid ;
     border-radius: 20%;
     background-color: grey;
-    padding: 10px;
+    padding: 5px;
     margin: 20px;
+    margin-left:0;
+    margin-right:0;
 }
 .com{
     
@@ -47,3 +49,4 @@ ul{
 img{
     border-radius: 0 50px 20px 50px;
 }
+
