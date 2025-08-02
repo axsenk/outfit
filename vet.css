@@ -27,6 +27,7 @@ ul{
     transition: 1.1s;
 }
 .hom{
+    text-align:center;
     border: solid aquamarine 3px;
     border-radius: 5%;
     color: blue;
@@ -35,6 +36,7 @@ ul{
     padding: 20px;
 }
 .fem{
+    text-align:center;
     border: solid aquamarine 3px;
     border-radius: 5%;
     color: plum;
@@ -52,4 +54,5 @@ img{
     border-radius: 20%;
 
 }
+
 
